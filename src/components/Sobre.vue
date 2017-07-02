@@ -14,12 +14,15 @@
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+
   main{
     padding-top: 100px;
     color: #000;
-    width: 80%;
+    width: 88%;
     padding-left:;
     text-align: left;
     height: 1000px;
+    position: relative;
+    margin-left: 11%;
   }
 </style>
